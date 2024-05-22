@@ -27,33 +27,3 @@ Note：小组成员分别来自珠海、香港、澳门三地，所以取名Sand
 # 1.1 最新更新-Latest Update
 待修改问题
 1.游戏中按炸弹键，没有效果。检查代码无拼写错误，后续将寻求解决方案
-
-
-# 使用---How to Used
-
-下載解壓即可訪問
-/static/root.css主題文件
-/static/style.css樣式文件
-在此可以修改各種字體
-/static/img/favicon.ico網頁ico和主頁頭像
-/static/script.js js文件
-
-# 緣由---Cause
-
-This GitHub repository serves as a platform to showcase the assignments of students. It provides a space where students can upload their work, allowing for easy access and review. The repository is designed to foster an interactive learning environment, encouraging students to share their work and receive feedback. It’s a great tool for tracking progress, sharing ideas, and promoting collaborative learning.
-
-#技術棧
-html
-css
-js
-
-# 鳴謝 Acknowledgements
-iconfont圖標
-Pacifico-Regular字體
-Ubuntu-Regular字體
-
-# 備註 Note
-頁面圖標都是svg,可也自己找然後切換
-字體目前最新版是鴻蒙字體,可以自己設置
-
-
