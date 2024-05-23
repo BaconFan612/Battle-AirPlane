@@ -39,3 +39,11 @@ Note：小组成员分别来自珠海、香港、澳门三地，所以取名Sand
 # 1.1 最新更新-Latest Update
 待修改问题
 1.游戏中按炸弹键，没有效果。检查代码无拼写错误，后续将寻求解决方案
+
+# Note
+
+作业一 飞机大战：https://github.com/BaconFan612/Battle-AirPlane
+
+作业二 小猴子爱香蕉：https://github.com/BaconFan612/Monkey-Want-Banana
+
+作业三 数据分析程序：https://github.com/BaconFan612/Text-Data-Analysis
