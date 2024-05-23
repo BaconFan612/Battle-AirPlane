@@ -1,6 +1,7 @@
-# Battle-AirPlane 作品展示主页 No.11 Team Sandy 上传作者：范航
+# Battle-AirPlane 作品展示主页 
 
-# 项目简介
+# 项目简介 No.11 Team Sandy 上传作者：范航
+
 
 这是一款竖屏方向的类飞机大战单人游戏，由Python语言通过PyCharm编写。
 
